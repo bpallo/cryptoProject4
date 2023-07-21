@@ -1,10 +1,15 @@
 # codingProjects
-This repository contains a collection of my coding projects and coding-related projects. The projects are intended to showcase my skills and abilities as a software developer and engineer.
 
-Projects
-The projects in this repository are organized into the following categories:
+This repository contains:
 
-Coding Projects: These projects demonstrate my ability to code in Java.
-Coding-Related Projects: These projects are not strictly coding projects, but they demonstrate my skills in the processes of software engineering.
+The assignment.docx(Assignment requirements) 
+
+PallottiRSATextConverter.java(The project source java file)
+
+pallotti4.txt(The code in a text file)
+
+pallotti_Report_PA4.docx(A very informal and brief report explaining the code)
+
+A youtube link to a presentation: https://www.youtube.com/watch?v=w4UT-C2KodQ
 
 https://www.linkedin.com/in/benjamin-pallotti/
