@@ -1,6 +1,6 @@
 #README Cryptography Assignment 4
 
-This file contains:
+This repository contains:
 
 The assignment.docx(Assignment requirements) 
 
